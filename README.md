@@ -2,7 +2,7 @@
 <!-- default badges end -->
 # DataGrid for .NET MAUI - Infinite Scrolling
 
-This example demonstrates how to implement infinite scrolling in [Data Grid](https://docs.devexpress.com/MAUI/403255/data-grid/data-grid).
+This example demonstrates how to implement infinite scrolling in the [Data Grid](https://docs.devexpress.com/MAUI/403255/data-grid/data-grid).
 
 <img width="30%" src="https://user-images.githubusercontent.com/12169834/230103799-e52c384f-3efe-4428-b663-35756da1fe59.png"/>
 
